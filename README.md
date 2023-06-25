@@ -1,0 +1,1 @@
+# https-webapi.allegro.pl.allegrosandbox.pl
